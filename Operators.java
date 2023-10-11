@@ -54,6 +54,19 @@
          * int arr[] = new int[5];
 */
 
+/* 
+ * Data Type Conversion
+ * 1. Implicit Type Conversion
+    * Automatic Type Conversion
+    * Widening Conversion
+    * byte -> short -> int -> long -> float -> double
+
+ * 2. Explicit Type Conversion 
+    * Type Casting
+    * Narrowing Conversion
+    * double -> float -> long -> int -> short -> byte
+*/
+
 /* Arithmetic Operator
     * (+) Addition - Used for the addition of two operands
     * (-) Subtraction - Used for the subtraction of two operands
